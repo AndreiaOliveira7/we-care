@@ -8,7 +8,7 @@
 }
 
 header {
-  margin: 44px 0 144px 76px;
+  margin: 44px 0 120px 76px;
 }
 
 .link-header {
@@ -33,8 +33,7 @@ header {
 }
 
 .logo-image {
-  width: 568px;
-  height: 500px;
+  width: 500px;
   margin-left: 125px;
   display: inline-block;
 }
